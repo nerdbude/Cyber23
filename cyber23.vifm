@@ -1,0 +1,44 @@
+" Theme: 	CYBER23 
+" Author: 	PH_0x17
+" Website:	https://www.nerdbude.com
+"
+
+highlight clear
+
+highlight Win 		cterm=none 	ctermfg=7 	ctermbg=0
+highlight Directory 	cterm=bold 	ctermfg=5 	ctermbg=0
+highlight Link 		cterm=bold 	ctermfg=yellow 	ctermbg=default
+highlight BrokenLink 	cterm=bold 	ctermfg=red 	ctermbg=default
+highlight HardLink 	cterm=none 	ctermfg=yellow 	ctermbg=default
+highlight Socket 	cterm=bold 	ctermfg=magenta ctermbg=default
+highlight Device 	cterm=bold 	ctermfg=red 	ctermbg=default
+highlight Fifo 		cterm=bold 	ctermfg=cyan 	ctermbg=default
+highlight Executable 	cterm=bold 	ctermfg=green 	ctermbg=default
+highlight Selected 	cterm=bold 	ctermfg=0 ctermbg=5
+highlight CurrLine 	cterm=bold,reverse ctermfg=default ctermbg=default
+highlight TopLine 	cterm=none 	ctermfg=15 	ctermbg=5
+highlight TopLineSel 	cterm=bold 	ctermfg=black 	ctermbg=default
+highlight StatusLine 	cterm=bold 	ctermfg=5 	ctermbg=0
+highlight WildMenu 	cterm=underline,reverse ctermfg=white ctermbg=black
+highlight CmdLine 	cterm=none 	ctermfg=white 	ctermbg=black
+highlight ErrorMsg 	cterm=none 	ctermfg=red 	ctermbg=black
+highlight Border 	cterm=none 	ctermfg=0 	ctermbg=0
+highlight OtherLine 	ctermfg=default ctermbg=default
+highlight JobLine 	cterm=bold,reverse ctermfg=black ctermbg=white
+highlight SuggestBox 	cterm=bold 	ctermfg=default ctermbg=default
+highlight CmpMismatch 	cterm=bold 	ctermfg=white 	ctermbg=red
+highlight AuxWin 	ctermfg=default ctermbg=default
+highlight TabLine 	cterm=none 	ctermfg=white 	ctermbg=black
+highlight TabLineSel 	cterm=bold,reverse ctermfg=default ctermbg=default
+highlight User1 	ctermfg=default ctermbg=default
+highlight User2 	ctermfg=default ctermbg=default
+highlight User3 	ctermfg=default ctermbg=default
+highlight User4 	ctermfg=default ctermbg=default
+highlight User5 	ctermfg=default ctermbg=default
+highlight User6 	ctermfg=default ctermbg=default
+highlight User7 	ctermfg=default ctermbg=default
+highlight User8 	ctermfg=default ctermbg=default
+highlight User9 	ctermfg=default ctermbg=default
+highlight OtherWin 	ctermfg=default ctermbg=default
+highlight LineNr 	ctermfg=default ctermbg=default
+highlight OddLine 	ctermfg=default ctermbg=default
