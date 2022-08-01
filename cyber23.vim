@@ -12,11 +12,11 @@ endif
 let g:colors_name="cyber23"
 
 " Standartsettings
-hi Normal          ctermfg=246	  ctermbg=none
-hi Cursor          ctermfg=246     ctermbg=none
-hi CursorLine      ctermfg=232    ctermbg=none
-hi LineNr          ctermfg=99     ctermbg=none
-hi CursorLineNR    ctermfg=232    ctermbg=none
+hi Normal          ctermfg=253	  ctermbg=233
+hi Cursor          ctermfg=246     ctermbg=233
+hi CursorLine      ctermfg=232    ctermbg=233
+hi LineNr          ctermfg=150     ctermbg=233
+hi CursorLineNR    ctermfg=232    ctermbg=233
 
 " Number column
 hi CursorColumn    ctermfg=none    ctermbg=none
@@ -32,7 +32,7 @@ hi TabLineFill     ctermfg=none    ctermbg=none
 hi TabLineSel      ctermfg=none    ctermbg=none
 
 " File Navigation
-hi Directory       ctermfg=198     ctermbg=none
+hi Directory       ctermfg=198     ctermbg=233
 hi Search          ctermfg=none    ctermbg=none
 hi IncSearch       ctermfg=none    ctermbg=none
 
@@ -60,11 +60,11 @@ hi Ignore          ctermfg=188     ctermbg=0
 hi SpecialKey      ctermfg=188     ctermbg=0
 
 " Variable types
-hi Constant        ctermfg=134      ctermbg=none
-hi String          ctermfg=134      ctermbg=none
+hi Constant        ctermfg=253      ctermbg=233
+hi String          ctermfg=33      ctermbg=233
 hi StringDelimiter ctermfg=134      ctermbg=none
 hi Character       ctermfg=188     ctermbg=none
-hi Number          ctermfg=227     ctermbg=none
+hi Number          ctermfg=33     ctermbg=233
 hi Boolean         ctermfg=227     ctermbg=none
 hi Float           ctermfg=227     ctermbg=none
 

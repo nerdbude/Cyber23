@@ -5,7 +5,7 @@ URxvt.depth:                    32  1
 
 URxvt*transparent: 		true
 URxvt*shading: 			20
-URxvt*tintcolor:		#0d0d0d
+URxvt*tintcolor:		#080808
 URxvt*blurRadius:		5
 
 URxvt.letterSpace:              1
