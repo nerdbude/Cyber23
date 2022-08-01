@@ -1,0 +1,64 @@
+Xft.dpi:                        109
+URxvt*termName:                 rxvt-256color
+URxvt*font:                     xft:ShureTechMono Nerd Font:size=8:antialias=true:hinting:true
+URxvt.depth:                    32  1
+
+URxvt*transparent: 		true
+URxvt*shading: 			20
+URxvt*tintcolor:		#080808
+URxvt*blurRadius:		5
+
+URxvt.letterSpace:              1
+URxvt.iso14755:                 false
+URxvt.iso14755_52:              false
+URxvt.scrollBar:                false
+URxvt*loginShell:               true
+URxvt.internalBorder:           5
+URxvt.perl-ext-common:          default,clipboard
+URxvt.keysym.Shift-Control-C:   perl:clipboard:copy
+URxvt.keysym.Shift-Control-V:   perl:clipboard:paste
+URxvt.clipboard.autocopy:       true
+
+#define base00 #080808
+#define base01 #ff005f
+#define base02 #afd75f
+#define base03 #ffff5f
+#define base04 #0087ff
+#define base05 #d700ff
+#define base06 #5fd7d7
+#define base07 #dadada
+
+#define base08 #1c1c1c
+#define base09 #ff0087
+#define base0A #afd787
+#define base0B #ffff87
+#define base0C #00afff
+#define base0D #d75fd7
+#define base0E #5fffd7
+#define base0F #e4e4e4
+
+*foreground:   base07
+#ifdef background_opacity
+*background:   [50]base00
+#else
+*background:   base00
+#endif
+*cursorColor:  base07
+
+*color0:       base00
+*color1:       base01
+*color2:       base02
+*color3:       base03
+*color4:       base04
+*color5:       base05
+*color6:       base06
+*color7:       base07
+
+*color8:       base08
+*color9:       base09
+*color10:      base0A
+*color11:      base0B
+*color12:      base0C
+*color13:      base0D
+*color14:      base0E
+*color15:      base0F
