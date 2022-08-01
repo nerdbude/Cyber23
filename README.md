@@ -17,5 +17,5 @@ The following tools are supported (but not 100% ready now):<br>
 <br>
 And here you can see it in the wild:
 <br>
-![This is an image](www.nerdbude.com/images/cyber23_screenshot.png)
+![This is an image](https://github.com/nerdbude/Cyber23/blob/main/images/cyber23_screenshot.png)
 
