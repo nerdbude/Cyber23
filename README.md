@@ -12,6 +12,7 @@ The following tools are supported (but not 100% ready now):<br>
 - Terminal (.Xressources)
 - ZSH
 - xmobar
+- XMonad
 <br>
 And here you can see it in the wild:
 <br>
