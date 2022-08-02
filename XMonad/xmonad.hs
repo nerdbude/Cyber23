@@ -89,7 +89,7 @@ main = do
                         , ppHiddenNoWindows = xmobarColor "#1c1c1c" ""        -- Hidden workspaces (no windows)
                         , ppTitle = xmobarColor "#d700ff" "" . shorten 80     -- Title of active window in xmobar
                         , ppSep =  "<fc=#5fffd7> >> </fc>"                     -- Separators
-                        , ppUrgent = xmobarColor "#080808" "" . wrap "!" "!"  -- Urgent workspace
+                        , ppUrgent = xmobarColor "#1c1c1c" "" . wrap "!" "!"  -- Urgent workspace
                         , ppExtras  = [windowCount]                           -- # of windows current workspace
                         , ppOrder  = \(ws:l:t:ex) -> [ws,l]++ex++[t]
                         }
@@ -99,7 +99,7 @@ main = do
         , layoutHook         = myLayoutHook 
         , workspaces         = myWorkspaces
         , borderWidth        = myBorderWidth
-        , normalBorderColor  = "#080808"
+        , normalBorderColor  = "#1c1c1c"
         , focusedBorderColor = "#d700ff"
         } `additionalKeysP`         myKeys 
 
