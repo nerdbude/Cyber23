@@ -3,10 +3,11 @@ URxvt*termName:                 rxvt-256color
 URxvt*font:                     xft:ShureTechMono Nerd Font:size=8:antialias=true:hinting:true
 URxvt.depth:                    32  1
 
-URxvt*transparent: 		true
-URxvt*shading: 			20
-URxvt*tintcolor:		#080808
-URxvt*blurRadius:		5
+#TRANSPARANCY
+#URxvt*transparent: 		true
+#URxvt*shading: 			20
+#URxvt*tintcolor:		#080808
+#URxvt*blurRadius:		5
 
 URxvt.letterSpace:              1
 URxvt.iso14755:                 false
@@ -39,9 +40,9 @@ URxvt.clipboard.autocopy:       true
 
 *foreground:   base07
 #ifdef background_opacity
-*background:   [50]base00
+*background:   [100]base08
 #else
-*background:   base00
+*background:   base08
 #endif
 *cursorColor:  base07
 
