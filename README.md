@@ -16,8 +16,7 @@ The following tools are supported (but not 100% ready now):<br>
 - XMonad
 - Lightline
 <br>
-And here you can see it in the wild:
-<br>
+
 
 
 
