@@ -12,11 +12,11 @@ endif
 let g:colors_name="cyber23"
 
 " Standartsettings
-hi Normal          ctermfg=253	  ctermbg=233
-hi Cursor          ctermfg=246     ctermbg=233
-hi CursorLine      ctermfg=232    ctermbg=233
-hi LineNr          ctermfg=150     ctermbg=233
-hi CursorLineNR    ctermfg=232    ctermbg=233
+hi Normal          ctermfg=253	  ctermbg=234
+hi Cursor          ctermfg=246     ctermbg=234
+hi CursorLine      ctermfg=232    ctermbg=234
+hi LineNr          ctermfg=150     ctermbg=234
+hi CursorLineNR    ctermfg=232    ctermbg=234
 
 " Number column
 hi CursorColumn    ctermfg=none    ctermbg=none
@@ -32,7 +32,7 @@ hi TabLineFill     ctermfg=none    ctermbg=none
 hi TabLineSel      ctermfg=none    ctermbg=none
 
 " File Navigation
-hi Directory       ctermfg=198     ctermbg=233
+hi Directory       ctermfg=198     ctermbg=234
 hi Search          ctermfg=none    ctermbg=none
 hi IncSearch       ctermfg=none    ctermbg=none
 
@@ -52,19 +52,19 @@ hi VisualNOS       ctermfg=none    ctermbg=none
 hi NonText         ctermfg=none    ctermbg=none
 
 hi Todo            ctermfg=none     ctermbg=198
-hi Underlined      ctermfg=97      ctermbg=0
-hi Error           ctermfg=238     ctermbg=203
-hi ErrorMsg        ctermfg=238     ctermbg=203
-hi WarningMsg      ctermfg=203     ctermbg=0
-hi Ignore          ctermfg=188     ctermbg=0
-hi SpecialKey      ctermfg=188     ctermbg=0
+hi Underlined      ctermfg=97      ctermbg=234
+hi Error           ctermfg=238     ctermbg=234
+hi ErrorMsg        ctermfg=238     ctermbg=234
+hi WarningMsg      ctermfg=203     ctermbg=234
+hi Ignore          ctermfg=188     ctermbg=234
+hi SpecialKey      ctermfg=188     ctermbg=234
 
 " Variable types
-hi Constant        ctermfg=253      ctermbg=233
-hi String          ctermfg=33      ctermbg=233
+hi Constant        ctermfg=253      ctermbg=234
+hi String          ctermfg=33      ctermbg=234
 hi StringDelimiter ctermfg=134      ctermbg=none
 hi Character       ctermfg=188     ctermbg=none
-hi Number          ctermfg=33     ctermbg=233
+hi Number          ctermfg=33     ctermbg=234
 hi Boolean         ctermfg=227     ctermbg=none
 hi Float           ctermfg=227     ctermbg=none
 
