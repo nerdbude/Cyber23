@@ -15,6 +15,7 @@ The following tools are supported (but not 100% ready now):<br>
 - xmobar
 - XMonad
 - Lightline
+- Tut
 <br>
 
 
