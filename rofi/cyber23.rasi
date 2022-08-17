@@ -22,7 +22,7 @@
     alternate-normal-foreground: #d700ff;
     normal-background:           #1c1c1c;
     lightfg:                     #dadada;
-    selected-normal-background:  #d700ff;
+    selected-normal-background:  #ff005f;
     border-color:                #d700ff;
     spacing:                     2;
     separatorcolor:              #afd75f;
